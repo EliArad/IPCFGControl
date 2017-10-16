@@ -1,0 +1,7 @@
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpIpcControlApi\bin\Debug\UdpIpcControlApi.dll
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpIpcControlApi\bin\Debug\UdpIpcControlApi.pdb
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpIpcControlApi\bin\Debug\Common.dll
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpIpcControlApi\bin\Debug\Common.pdb
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpIpcControlApi\obj\Debug\UdpIpcControlApi.csprojResolveAssemblyReference.cache
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpIpcControlApi\obj\Debug\UdpIpcControlApi.dll
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpIpcControlApi\obj\Debug\UdpIpcControlApi.pdb

@@ -1,0 +1,4 @@
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\FrameGrabberApi\bin\Debug\FrameGrabberApi.dll
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\FrameGrabberApi\bin\Debug\FrameGrabberApi.pdb
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\FrameGrabberApi\obj\Debug\FrameGrabberApi.dll
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\FrameGrabberApi\obj\Debug\FrameGrabberApi.pdb

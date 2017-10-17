@@ -1,0 +1,168 @@
+FG_MODULE, 10/17/2017 9:16:23 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 9:16:29 AM , Got response
+FG_MODULE, 10/17/2017 9:33:35 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 9:34:48 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 9:36:15 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 9:40:06 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 9:53:05 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 9:53:12 AM , Got response
+FG_MODULE, 10/17/2017 10:01:11 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:01:17 AM , Got response
+FG_MODULE, 10/17/2017 10:01:22 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:04:15 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:04:15 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:04:21 AM , Got response
+FG_MODULE, 10/17/2017 10:04:21 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:04:21 AM , Start frame: 1
+FG_MODULE, 10/17/2017 10:04:21 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:05:32 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:05:32 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:05:33 AM , Got row data to pass to IP size of: 0
+MANAGER_MODULE, 10/17/2017 10:05:46 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:05:46 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:05:48 AM , Got row data to pass to IP size of: 0
+MANAGER_MODULE, 10/17/2017 10:06:03 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:06:03 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:07:21 AM , Got row data to pass to IP size of: 0
+MANAGER_MODULE, 10/17/2017 10:07:36 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:07:36 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:08:01 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:08:01 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:08:05 AM , Got row data to pass to IP size of: 0
+MANAGER_MODULE, 10/17/2017 10:08:57 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:08:57 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:09:08 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:09:08 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:09:28 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:09:28 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:10:06 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:10:06 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:10:12 AM , Got response
+MANAGER_MODULE, 10/17/2017 10:10:25 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:10:25 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:10:37 AM , Got row data to pass to IP size of: 0
+MANAGER_MODULE, 10/17/2017 10:10:46 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:10:46 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:11:30 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:11:30 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:11:49 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:11:49 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:12:00 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:12:00 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:12:15 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:12:15 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:12:31 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:12:31 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:12:34 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:12:34 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:13:02 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:13:02 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:13:21 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:13:21 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:13:24 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:13:24 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:13:27 AM , Got response
+FG_MODULE, 10/17/2017 10:13:32 AM , Got response
+FG_MODULE, 10/17/2017 10:13:32 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:13:33 AM , Start frame: 1
+FG_MODULE, 10/17/2017 10:13:33 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:13:35 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:13:35 AM , Start frame: 2
+FG_MODULE, 10/17/2017 10:13:35 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:13:46 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:13:46 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:13:54 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:13:54 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:14:57 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:14:57 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:15:08 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:15:08 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:15:16 AM , Start frame: 0
+MANAGER_MODULE, 10/17/2017 10:15:34 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:15:35 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:15:41 AM , Got response
+FG_MODULE, 10/17/2017 10:15:43 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:15:43 AM , Start frame: 1
+FG_MODULE, 10/17/2017 10:15:43 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:16:10 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:16:10 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:16:32 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:16:35 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:16:52 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:16:56 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:17:03 AM , Got response
+FG_MODULE, 10/17/2017 10:17:06 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:17:10 AM , Start frame: 1
+FG_MODULE, 10/17/2017 10:17:16 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:17:24 AM , Got response
+FG_MODULE, 10/17/2017 10:17:25 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:17:25 AM , Start frame: 2
+FG_MODULE, 10/17/2017 10:17:25 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:17:33 AM , Got response
+FG_MODULE, 10/17/2017 10:17:33 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:17:33 AM , Start frame: 3
+FG_MODULE, 10/17/2017 10:17:33 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:17:39 AM , Got response
+FG_MODULE, 10/17/2017 10:17:39 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:17:39 AM , Start frame: 4
+FG_MODULE, 10/17/2017 10:17:39 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:17:45 AM , Got response
+FG_MODULE, 10/17/2017 10:17:45 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:17:45 AM , Start frame: 5
+FG_MODULE, 10/17/2017 10:17:45 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:17:51 AM , Got response
+FG_MODULE, 10/17/2017 10:17:51 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:17:51 AM , Start frame: 6
+FG_MODULE, 10/17/2017 10:17:51 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:18:28 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:18:28 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:18:42 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:18:42 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:18:48 AM , Got response
+FG_MODULE, 10/17/2017 10:18:48 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:18:48 AM , Start frame: 1
+FG_MODULE, 10/17/2017 10:18:48 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:19:05 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:19:05 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:19:13 AM , Got response
+FG_MODULE, 10/17/2017 10:19:13 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:19:13 AM , Start frame: 1
+FG_MODULE, 10/17/2017 10:19:13 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:19:27 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:19:27 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:19:39 AM , Got response
+MANAGER_MODULE, 10/17/2017 10:19:44 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:19:44 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:19:44 AM , Got row data to pass to IP size of: 0
+MANAGER_MODULE, 10/17/2017 10:19:44 AM , Start frame: 1
+FG_MODULE, 10/17/2017 10:19:44 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:19:50 AM , Got response
+FG_MODULE, 10/17/2017 10:19:50 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:19:50 AM , Start frame: 2
+FG_MODULE, 10/17/2017 10:19:50 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:19:50 AM , Got response
+FG_MODULE, 10/17/2017 10:19:50 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:19:50 AM , Start frame: 3
+FG_MODULE, 10/17/2017 10:19:50 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:20:03 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:20:03 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:20:09 AM , Got response
+FG_MODULE, 10/17/2017 10:20:09 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:20:09 AM , Start frame: 1
+FG_MODULE, 10/17/2017 10:20:09 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:20:21 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:20:21 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:20:27 AM , Got response
+FG_MODULE, 10/17/2017 10:20:27 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:20:27 AM , Start frame: 1
+FG_MODULE, 10/17/2017 10:20:27 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:20:36 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:20:36 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:21:58 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:21:58 AM , Called to acquire frame
+MANAGER_MODULE, 10/17/2017 10:22:02 AM , Start frame: 0
+FG_MODULE, 10/17/2017 10:22:02 AM , Called to acquire frame
+FG_MODULE, 10/17/2017 10:22:04 AM , Got response
+FG_MODULE, 10/17/2017 10:22:04 AM , Got row data to pass to IP size of: 3145728
+MANAGER_MODULE, 10/17/2017 10:22:04 AM , Start frame: 1
+FG_MODULE, 10/17/2017 10:22:04 AM , Called to acquire frame

@@ -1,0 +1,9 @@
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\Common\bin\Debug\Common.dll
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\Common\bin\Debug\Common.pdb
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\Common\obj\Debug\Common.dll
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\Common\obj\Debug\Common.pdb
+C:\MyGitHub\IPCFGControl\VS2013\Common\bin\Debug\Common.dll
+C:\MyGitHub\IPCFGControl\VS2013\Common\bin\Debug\Common.pdb
+C:\MyGitHub\IPCFGControl\VS2013\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\MyGitHub\IPCFGControl\VS2013\Common\obj\Debug\Common.dll
+C:\MyGitHub\IPCFGControl\VS2013\Common\obj\Debug\Common.pdb

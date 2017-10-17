@@ -1,0 +1,14 @@
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpIpcControlApi\bin\Debug\UdpIpcControlApi.dll
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpIpcControlApi\bin\Debug\UdpIpcControlApi.pdb
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpIpcControlApi\bin\Debug\Common.dll
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpIpcControlApi\bin\Debug\Common.pdb
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpIpcControlApi\obj\Debug\UdpIpcControlApi.csprojResolveAssemblyReference.cache
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpIpcControlApi\obj\Debug\UdpIpcControlApi.dll
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpIpcControlApi\obj\Debug\UdpIpcControlApi.pdb
+C:\MyGitHub\IPCFGControl\VS2013\UdpIpcControlApi\bin\Debug\UdpIpcControlApi.dll
+C:\MyGitHub\IPCFGControl\VS2013\UdpIpcControlApi\bin\Debug\UdpIpcControlApi.pdb
+C:\MyGitHub\IPCFGControl\VS2013\UdpIpcControlApi\bin\Debug\Common.dll
+C:\MyGitHub\IPCFGControl\VS2013\UdpIpcControlApi\bin\Debug\Common.pdb
+C:\MyGitHub\IPCFGControl\VS2013\UdpIpcControlApi\obj\Debug\UdpIpcControlApi.csprojResolveAssemblyReference.cache
+C:\MyGitHub\IPCFGControl\VS2013\UdpIpcControlApi\obj\Debug\UdpIpcControlApi.dll
+C:\MyGitHub\IPCFGControl\VS2013\UdpIpcControlApi\obj\Debug\UdpIpcControlApi.pdb

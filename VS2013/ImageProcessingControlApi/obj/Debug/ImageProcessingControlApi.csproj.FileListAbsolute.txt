@@ -1,10 +1,3 @@
-D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\ImageProcessingControlApi\bin\Debug\ImageProcessingControlApi.dll
-D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\ImageProcessingControlApi\bin\Debug\ImageProcessingControlApi.pdb
-D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\ImageProcessingControlApi\bin\Debug\Common.dll
-D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\ImageProcessingControlApi\bin\Debug\Common.pdb
-D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\ImageProcessingControlApi\obj\Debug\ImageProcessingControlApi.csprojResolveAssemblyReference.cache
-D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\ImageProcessingControlApi\obj\Debug\ImageProcessingControlApi.dll
-D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\ImageProcessingControlApi\obj\Debug\ImageProcessingControlApi.pdb
 C:\MyGitHub\IPCFGControl\VS2013\ImageProcessingControlApi\bin\Debug\ImageProcessingControlApi.dll
 C:\MyGitHub\IPCFGControl\VS2013\ImageProcessingControlApi\bin\Debug\ImageProcessingControlApi.pdb
 C:\MyGitHub\IPCFGControl\VS2013\ImageProcessingControlApi\bin\Debug\Common.dll

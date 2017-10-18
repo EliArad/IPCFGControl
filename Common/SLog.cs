@@ -17,7 +17,7 @@ namespace SLogApi
         string m_dateName;
         string m_logFileName;
         string m_fullLogPathName;
-
+        bool m_enable = true;
         private SLog()
         {
             Directory.CreateDirectory("Logs");
@@ -40,7 +40,10 @@ namespace SLogApi
             }
             return _instance;
         }
-
+        public void EnableLog(bool enable)
+        {
+            m_enable = enable;
+        }
         public void SetCallback(ManagerCallbackMsg p)
         {
             pMsgCallback = p;
@@ -48,6 +51,9 @@ namespace SLogApi
 
         public void Initialize(string logFileName)
         {
+            if (m_enable == false)
+                return;
+
             DateTime d = DateTime.Now;
             string dname = "Logs\\" + d.Year + "_" + d.Month + "_" + d.Day;
             m_dateName = dname;
@@ -56,6 +62,9 @@ namespace SLogApi
         }
         public void Write(AppCommon.MODULES module, string str)
         {
+            if (m_enable == false)
+                return;
+
             lock (this)
             {
 

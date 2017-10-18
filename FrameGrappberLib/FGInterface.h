@@ -12,7 +12,7 @@ extern "C"
 #endif
  
     #define DLL __declspec(dllexport)
-    typedef void (__stdcall * ProgressCallback)(int);
+    typedef void (__cdecl * ProgressCallback)(unsigned char *buffer, int length);
     DLL void DoWork(ProgressCallback progressCallback, int num1, int num2);
 
 	DLL void FGClose();

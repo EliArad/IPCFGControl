@@ -42,9 +42,13 @@
             this.button1 = new System.Windows.Forms.Button();
             this.btnStart = new System.Windows.Forms.Button();
             this.btnStop = new System.Windows.Forms.Button();
+            this.chkOnFile = new System.Windows.Forms.CheckBox();
+            this.chkOnScreen = new System.Windows.Forms.CheckBox();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.groupBox3.SuspendLayout();
             this.SuspendLayout();
             // 
             // txtNum1
@@ -52,7 +56,7 @@
             this.txtNum1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNum1.Location = new System.Drawing.Point(57, 19);
             this.txtNum1.Name = "txtNum1";
-            this.txtNum1.Size = new System.Drawing.Size(100, 29);
+            this.txtNum1.Size = new System.Drawing.Size(74, 29);
             this.txtNum1.TabIndex = 0;
             // 
             // txtNum2
@@ -60,7 +64,7 @@
             this.txtNum2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNum2.Location = new System.Drawing.Point(57, 63);
             this.txtNum2.Name = "txtNum2";
-            this.txtNum2.Size = new System.Drawing.Size(100, 29);
+            this.txtNum2.Size = new System.Drawing.Size(74, 29);
             this.txtNum2.TabIndex = 1;
             // 
             // groupBox1
@@ -71,7 +75,7 @@
             this.groupBox1.Controls.Add(this.txtNum2);
             this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(163, 100);
+            this.groupBox1.Size = new System.Drawing.Size(140, 100);
             this.groupBox1.TabIndex = 2;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Frame grabber";
@@ -100,7 +104,7 @@
             this.groupBox2.Controls.Add(this.label3);
             this.groupBox2.Controls.Add(this.txtIpAddress);
             this.groupBox2.Controls.Add(this.txtPort);
-            this.groupBox2.Location = new System.Drawing.Point(181, 12);
+            this.groupBox2.Location = new System.Drawing.Point(158, 12);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(201, 100);
             this.groupBox2.TabIndex = 3;
@@ -146,7 +150,7 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(12, 182);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(436, 202);
+            this.dataGridView1.Size = new System.Drawing.Size(463, 202);
             this.dataGridView1.TabIndex = 4;
             // 
             // button1
@@ -161,7 +165,7 @@
             // 
             // btnStart
             // 
-            this.btnStart.Location = new System.Drawing.Point(88, 118);
+            this.btnStart.Location = new System.Drawing.Point(116, 129);
             this.btnStart.Name = "btnStart";
             this.btnStart.Size = new System.Drawing.Size(75, 38);
             this.btnStart.TabIndex = 6;
@@ -171,7 +175,7 @@
             // 
             // btnStop
             // 
-            this.btnStop.Location = new System.Drawing.Point(200, 118);
+            this.btnStop.Location = new System.Drawing.Point(228, 129);
             this.btnStop.Name = "btnStop";
             this.btnStop.Size = new System.Drawing.Size(75, 38);
             this.btnStop.TabIndex = 7;
@@ -179,11 +183,45 @@
             this.btnStop.UseVisualStyleBackColor = true;
             this.btnStop.Click += new System.EventHandler(this.btnStop_Click);
             // 
+            // chkOnFile
+            // 
+            this.chkOnFile.AutoSize = true;
+            this.chkOnFile.Location = new System.Drawing.Point(16, 24);
+            this.chkOnFile.Name = "chkOnFile";
+            this.chkOnFile.Size = new System.Drawing.Size(56, 17);
+            this.chkOnFile.TabIndex = 8;
+            this.chkOnFile.Text = "On file";
+            this.chkOnFile.UseVisualStyleBackColor = true;
+            this.chkOnFile.CheckedChanged += new System.EventHandler(this.chkOnFile_CheckedChanged);
+            // 
+            // chkOnScreen
+            // 
+            this.chkOnScreen.AutoSize = true;
+            this.chkOnScreen.Location = new System.Drawing.Point(16, 47);
+            this.chkOnScreen.Name = "chkOnScreen";
+            this.chkOnScreen.Size = new System.Drawing.Size(77, 17);
+            this.chkOnScreen.TabIndex = 9;
+            this.chkOnScreen.Text = "On Screen";
+            this.chkOnScreen.UseVisualStyleBackColor = true;
+            this.chkOnScreen.CheckedChanged += new System.EventHandler(this.chkOnScreen_CheckedChanged);
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.chkOnFile);
+            this.groupBox3.Controls.Add(this.chkOnScreen);
+            this.groupBox3.Location = new System.Drawing.Point(366, 12);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(109, 100);
+            this.groupBox3.TabIndex = 10;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "Log";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(458, 396);
+            this.ClientSize = new System.Drawing.Size(478, 396);
+            this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.btnStop);
             this.Controls.Add(this.btnStart);
             this.Controls.Add(this.button1);
@@ -201,6 +239,8 @@
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.groupBox3.ResumeLayout(false);
+            this.groupBox3.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -221,6 +261,9 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnStart;
         private System.Windows.Forms.Button btnStop;
+        private System.Windows.Forms.CheckBox chkOnFile;
+        private System.Windows.Forms.CheckBox chkOnScreen;
+        private System.Windows.Forms.GroupBox groupBox3;
     }
 }
 

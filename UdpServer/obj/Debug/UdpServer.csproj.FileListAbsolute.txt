@@ -1,0 +1,7 @@
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServer\bin\Debug\UdpServer.dll
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServer\bin\Debug\UdpServer.pdb
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServer\obj\Debug\UdpServer.dll
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServer\obj\Debug\UdpServer.pdb
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServer\bin\Debug\Common.dll
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServer\bin\Debug\Common.pdb
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServer\obj\Debug\UdpServer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServerApp\bin\Debug\UdpServerApp.exe.config
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServerApp\bin\Debug\UdpServerApp.exe
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServerApp\bin\Debug\UdpServerApp.pdb
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServerApp\obj\Debug\UdpServerApp.csprojResolveAssemblyReference.cache
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServerApp\obj\Debug\UdpServerApp.Form1.resources
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServerApp\obj\Debug\UdpServerApp.Properties.Resources.resources
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServerApp\obj\Debug\UdpServerApp.csproj.GenerateResource.Cache
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServerApp\obj\Debug\UdpServerApp.exe
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServerApp\obj\Debug\UdpServerApp.pdb
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServerApp\bin\Debug\UdpServer.dll
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServerApp\bin\Debug\UdpServer.pdb
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServerApp\bin\Debug\Common.dll
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServerApp\bin\Debug\Common.pdb
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServerApp\bin\Debug\UdpIpcControlApi.dll
+D:\ArielL\ImageProcessingControlApp\ImageProcessingControlApp\UdpServerApp\bin\Debug\UdpIpcControlApi.pdb
